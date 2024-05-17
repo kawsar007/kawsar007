@@ -18,8 +18,8 @@
 ## Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-kawsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawsar-mia-661a0b193/)](https://www.linkedin.com/in/kawsar-mia-661a0b193/)
-[![Facebook Badge](https://img.shields.io/badge/-imkawsar007-c14438?style=flat-square&logo=Facebook&logoColor=white&link=//www.facebook.com/imkawsar007/)](//www.facebook.com/imkawsar007/)
 [![Gmail Badge](https://img.shields.io/badge/-imkawsar007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imkawsar007@gmail.com)](mailto:imkawsar007@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-imkawsar007-blue?style=flat-square&logo=Facebook&logoColor=white&link=//www.facebook.com/imkawsar007/)](//www.facebook.com/imkawsar007/)
 
 ## ⚡ Technologies
 
