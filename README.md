@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kawsar Mia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxN6zvu8XDVQhm4RQh7DjgzXCgE_AYYd-F01t_tGNmiuNU7pEDG2AjddmBvTIRWSUcgCo&usqp=CAU)" width="360px"/>
+<img align="right" alt="GIF" src="[[https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxN6zvu8XDVQhm4RQh7DjgzXCgE_AYYd-F01t_tGNmiuNU7pEDG2AjddmBvTIRWSUcgCo&usqp=CAU)](https://img.freepik.com/free-vector/hand-drawn-flat-design-api-illustration_23-2149365021.jpg?w=740&t=st=1715933864~exp=1715934464~hmac=1e7046740072aed60236054bd10b7d2ca75e9e10c5d7cce7a4b09584f9afa528)" width="360px"/>
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Backend
