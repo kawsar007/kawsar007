@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kawsar Mia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on [MERN Stack E-commerce Online Shop](https://github.com/kawsar007/online-shop)
+- 🔭 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning **Node Js**
-
-- 👯 I’m looking to collaborate on [Ema-john](https://github.com/kawsar007/ema-john-website)
-
-- 🤝 I’m looking for help with [Blog App](https://github.com/kawsar007/MERN-STACK-BLOAG-APP)
+- 🌱 I’m currently learning Backend
 
 - 👨‍💻 All of my projects are available at [https://kawsar-mia.netlify.app/](https://kawsar-mia.netlify.app/)
 
 - 💬 Ask me about **JS, React, Redux, Node Js**
+  
+- 👨‍💻 Read more about my projects at https://kawsar-mia.netlify.app/
 
 - 📫 How to reach me **imkawsar007@gmail.com**
 
