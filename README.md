@@ -15,7 +15,7 @@
  📰 Reading, writing & watching Tech Stuff whenever possible <br/>
  🍕 Meetups & Tech Events
 
-## Connect with me:
+## 🌐 Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-kawsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawsar-mia-661a0b193/)](https://www.linkedin.com/in/kawsar-mia-661a0b193/)
 [![Gmail Badge](https://img.shields.io/badge/-imkawsar007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imkawsar007@gmail.com)](mailto:imkawsar007@gmail.com)
