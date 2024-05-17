@@ -7,13 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://kawsar-mia.netlify.app/](https://kawsar-mia.netlify.app/)
 
-- 💬 Ask me about **JS, React, Redux, Node Js**
-  
-- 👨‍💻 Read more about my projects at https://kawsar-mia.netlify.app/
+- 💬 Ask me about **Javascript/Typescript, React, Next Js, Redux, Node Js, Angular, Vue**
 
 - 📫 How to reach me **imkawsar007@gmail.com**
-
-- 📄 Know about my experiences [https://kawsar-mia.netlify.app/](https://kawsar-mia.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
