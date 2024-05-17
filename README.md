@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kawsar Mia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
+<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxN6zvu8XDVQhm4RQh7DjgzXCgE_AYYd-F01t_tGNmiuNU7pEDG2AjddmBvTIRWSUcgCo&usqp=CAU)" width="360px"/>
+
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Backend
 - 👨‍💻 All of my projects are available at [https://kawsar-mia.netlify.app/](https://kawsar-mia.netlify.app/)
