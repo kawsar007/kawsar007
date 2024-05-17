@@ -15,17 +15,11 @@
  📰 Reading, writing & watching Tech Stuff whenever possible <br/>
  🍕 Meetups & Tech Events
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-kawsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kawsar-mia-661a0b193/)](https://www.linkedin.com/in/kawsar-mia-661a0b193/)
-[![Facebook Badge](https://img.shields.io/badge/imkawsar007-black=https://www.facebook.com/imkawsar007/)](https://www.facebook.com/imkawsar007/)
+[![Facebook Badge](https://img.shields.io/badge/-imkawsar007-c14438?style=flat-square&logo=Facebook&logoColor=white&link=//www.facebook.com/imkawsar007/)](//www.facebook.com/imkawsar007/)
 [![Gmail Badge](https://img.shields.io/badge/-imkawsar007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imkawsar007@gmail.com)](mailto:imkawsar007@gmail.com)
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kawsar-mia-661a0b193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawsar mia" height="30" width="40" /></a>
-
-<a href="https://www.facebook.com/kawser.ahamed.142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kawsar" height="30" width="40" /></a>
-</p>
 
 ## ⚡ Technologies
 
