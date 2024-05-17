@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kawsar Mia</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFsOHB6c3MyZzVuMzZsd2ZzazQyOGN1NnpicWpvZmNzZW5mNG1ibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/QbGeAiysJkYAAAAC/work-and-sleep-work-sleep.gif" width="300px"/>
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Backend
 - 👨‍💻 All of my projects are available at [https://kawsar-mia.netlify.app/](https://kawsar-mia.netlify.app/)
-- 💬 Ask me about **Javascript/Typescript, React, Next Js, Redux, Node Js, Angular, Vue**
+- 💬 Ask me about **Javascript/Typescript, React, Next, Redux, Node, Angular, Vue**
 - 👾 Fun fact: Equal is Not Always Equal in JS.
 - 📫 How to reach me **imkawsar007@gmail.com**
   
