@@ -8,7 +8,7 @@
 - 👾 Fun fact: Equal is Not Always Equal in JS.
 - 📫 How to reach me **imkawsar007@gmail.com**
   
-<h3 align="left">My Absolute Favourites:</h3>
+<h3>My Absolute Favourites:</h3>
 - 💻 I love exploring new technologies and building cool stuff.
 - 📰 Reading, writing & watching Tech Stuff whenever possible.
 - 🍕 Meetups & Tech Events.
