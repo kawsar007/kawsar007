@@ -2,14 +2,16 @@
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 - 🔭 I’m currently working on something cool 😉
-
 - 🌱 I’m currently learning Backend
-
 - 👨‍💻 All of my projects are available at [https://kawsar-mia.netlify.app/](https://kawsar-mia.netlify.app/)
-
 - 💬 Ask me about **Javascript/Typescript, React, Next Js, Redux, Node Js, Angular, Vue**
-
+- 👾 Fun fact: Equal is Not Always Equal in JS.
 - 📫 How to reach me **imkawsar007@gmail.com**
+  
+<h3 align="left">My Absolute Favourites:</h3>
+- 💻   I love exploring new technologies and building cool stuff.
+- 📰   Reading, writing & watching Tech Stuff whenever possible.
+- 🍕   Meetups & Tech Events.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
