@@ -11,9 +11,9 @@
 - 📫 How to reach me **imkawsar007@gmail.com**
   
 <h3>My Absolute Favourites:</h3>
- 💻 I love exploring new technologies and building cool stuff <br/>
- 📰 Reading, writing & watching Tech Stuff whenever possible <br/>
- 🍕 Meetups & Tech Events
+ 💻 I love exploring new technologies and building cool stuff. <br/>
+ 📰 Reading, writing & watching Tech Stuff whenever possible. <br/>
+ 🍕 Meetups & Tech Events.
 
 ## 🌐 Connect with me:
 
