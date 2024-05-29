@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kawsar Mia</h1>
-<h3 align="center">I am a passionate Full Stack Developer with expertise in Next.js, React.js, TypeScript, JavaScript, Node.js, and Python.</h3>
+<h3 align="center">I am a passionate Full Stack Developer with expertise in React, Next, Vue, TypeScript, JavaScript, Node, and Python.</h3>
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/QbGeAiysJkYAAAAC/work-and-sleep-work-sleep.gif" width="300px"/>
 
