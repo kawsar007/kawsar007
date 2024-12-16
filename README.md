@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kawsar Mia</h1>
-<h3 align="center">I'm a passionate Full Stack Developer with expertise in React, Next, Vue, TypeScript, JavaScript, Node, Express, MongoDB and Python.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer with expertise in React, Next, Vue, TypeScript, JavaScript, Node, NestJs, Express, MongoDB and Python.</h3>
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/QbGeAiysJkYAAAAC/work-and-sleep-work-sleep.gif" width="300px"/>
 
@@ -11,10 +11,10 @@
 - 📫 How to reach me **imkawsar007@gmail.com**
 
 <h3>💻 My Latest Projest:</h3>
-- https://scribe.medser.us/
-- https://admin.medser.us/
-- https://bdshop.tetonelectronics.com/
-- https://realtorhelp.software/
+1. [scribe.medser.us](https://scribe.medser.us/)
+2. [admin.medser.us](https://admin.medser.us/)
+3. [bdshop.tetonelectronics.com](https://bdshop.tetonelectronics.com/)
+4. [realtorhelp.software](https://realtorhelp.software/)
   
 <h3>My Absolute Favourites:</h3>
  💻 I love exploring new technologies and building cool stuff. <br/>
