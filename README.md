@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kawsar Mia</h1>
-<h3 align="center">I'm a passionate Full Stack Developer with expertise in JavaScript, TypeScript, React, Next, Vue, Node, NestJs, Express, MongoDB and Python.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer with expertise in JavaScript, TypeScript, React, Next, Vue, Node, NestJs, Express, MongoDB and Go lang. </h3>
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/QbGeAiysJkYAAAAC/work-and-sleep-work-sleep.gif" width="300px"/>
 
