@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/QbGeAiysJkYAAAAC/work-and-sleep-work-sleep.gif" width="300px"/>
 
 - 🔭 I’m currently working on something cool. 😉
-- 🌱 I’m currently learning Backend.
+- 🌱 I’m currently learning DevOps & Automation.
 - 👨‍💻 All of my projects are available at [https://kawsar-mia.netlify.app/](https://kawsar-mia.netlify.app/)
 - 💬 Ask me about **Javascript/Typescript, React, Next, Redux, Node, Angular, Vue .**
 - 👾 Fun fact: Equal is Not Always Equal in JS.
@@ -12,8 +12,7 @@
 
 <h3>💻 My Latest Projects:</h3>
 
-1. [scribe.medser.us](https://scribe.medser.us/)
-2. [admin.medser.us](https://admin.medser.us/)
+2. [medser.us](https://medser.us/)
 3. [bdshop.tetonelectronics.com](https://bdshop.tetonelectronics.com/)
 4. [realtorhelp.software](https://realtorhelp.software/)
 
