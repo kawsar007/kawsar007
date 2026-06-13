@@ -12,9 +12,10 @@
 
 <h3>💻 My Latest Projects:</h3>
 
-2. [medser.us](https://medser.us/)
-3. [bdshop.tetonelectronics.com](https://bdshop.tetonelectronics.com/)
-4. [realtorhelp.software](https://realtorhelp.software/)
+1. [medser.us](https://medser.us/)
+2. [bdshop.tetonelectronics.com](https://bdshop.tetonelectronics.com/)
+3. [Vehicle Tracking Solution](http://69.167.170.135/)
+4. [Real Estate](https://realtor.buildyourai.consulting/)
 
   
 <h3>My Absolute Favourites:</h3>
